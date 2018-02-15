@@ -1,0 +1,77 @@
+{
+	"Queue_manage ": {
+		"Grazer": [{
+				"host": "xyz",
+				"queue_name": "def02-queue01",
+				"general": {
+					"des": "appl",
+					"usage": "regular"
+				},
+				"storage": {
+					"depth": "500"
+				},
+				"auths": {
+					"unix": {
+						"attributes": ["in", "put", "get"],
+						"owner": "true"
+					}
+				}
+
+			},
+			{
+				"host": "xyz",
+				"queue_name": "def02-queue02",
+				"general": {
+					"des": "appl",
+					"usage": "regular"
+				},
+				"storage": {
+					"depth": "500"
+				},
+				"auths": {
+					"unix": {
+						"attributes": ["in", "put", "get"],
+						"owner": "true"
+					}
+				}
+
+			},
+			{
+				"host": "xyz",
+				"queue_name": "def02-queue03",
+				"general": {
+					"des": "appl",
+					"usage": "regular"
+				},
+				"storage": {
+					"depth": "500"
+				},
+				"auths": {
+					"unix": {
+						"attributes": ["in", "put", "get"],
+						"owner": "true"
+					}
+				}
+
+			},
+			{
+				"host": "xyz",
+				"queue_name": "def02-queue04",
+				"general": {
+					"des": "appl",
+					"usage": "regular"
+				},
+				"storage": {
+					"depth": "500"
+				},
+				"auths": {
+					"unix": {
+						"attributes": ["in", "put", "get"],
+						"owner": "true"
+					}
+				}
+
+			}
+		]
+	}
+}
