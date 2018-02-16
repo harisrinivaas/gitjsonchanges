@@ -3,7 +3,7 @@
 		"Grazer": [
             {
 				"host": "xyz",
-				"queue_name": "def01-queue02",
+				"queue_name": "def08-queue02",
 				"general": {
 					"des": "appl",
 					"usage": "regular"
@@ -21,7 +21,7 @@
 			},
 			{
 				"host": "xyz",
-				"queue_name": "def01-queue03",
+				"queue_name": "def08-queue03",
 				"general": {
 					"des": "appl",
 					"usage": "regular"
@@ -39,7 +39,7 @@
 			},
 			{
 				"host": "xyz",
-				"queue_name": "def01-queue04",
+				"queue_name": "def08-queue04",
 				"general": {
 					"des": "appl",
 					"usage": "regular"

@@ -2,7 +2,7 @@
 	"Queue_manager": {
 		"Grazer": [{
 				"host": "xyz",
-				"queue_name": "def02-queue01",
+				"queue_name": "def10-queue01",
 				"general": {
 					"des": "appl",
 					"usage": "regular"
@@ -20,7 +20,7 @@
 			},
 			{
 				"host": "xyz",
-				"queue_name": "def02-queue04",
+				"queue_name": "def10-queue04",
 				"general": {
 					"des": "appl",
 					"usage": "regular"
