@@ -1,24 +1,6 @@
 {
 	"Queue_manager": {
 		"Grazer": [
-			{
-				"host": "xyz",
-				"queue_name": "def01-queue01",
-				"general": {
-					"des": "appl",
-					"usage": "regular"
-				},
-				"storage": {
-					"depth": "500"
-				},
-				"auths": {
-					"unix": {
-						"attributes": ["in", "put", "get"],
-						"owner": "true"
-					}
-				}
-
-			},
             {
 				"host": "xyz",
 				"queue_name": "def01-queue02",
